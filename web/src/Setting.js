@@ -28,7 +28,7 @@ import moment from "moment";
 
 const {Option} = Select;
 
-export const ServerUrl = "";
+export const ServerUrl = "https://api-auth.xcelerator.co.in";
 
 export const StaticBaseUrl = "https://cdn.casbin.org";
 
